@@ -1,8 +1,8 @@
-#define triacPulse 10
-#define ZVC 2
 int x = 0;
 int y = 0;
 int m = 101;      //101 => AUTO MODE by default
+#define triacPulse 10
+#define ZVC 2
 
 void dimmer()
 {
